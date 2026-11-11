@@ -23,8 +23,8 @@
     "check:fix": "vp check --fix"
   },
   "dependencies": {
-    "@mantine/core": "9.7.2",
-    "@mantine/hooks": "9.7.2",
+    "@mantine/core": "9.8.0",
+    "@mantine/hooks": "9.8.0",
     "@tanstack/react-router": "^1.170.0",
     "@tanstack/react-start": "^1.168.0",
     "react": "^19.2.0",
